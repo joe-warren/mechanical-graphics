@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024">
+<font id="stenzilla" horiz-adv-x="120">
+  <font-face font-family="Stenzilla" font-weight="normal" font-style="normal"
+      units-per-em="100" cap-height="200" x-height="200"
+      ascent="0" descent="0"
+      alphabetic="0" mathematical="350" ideographic="100" hanging="100">
+  </font-face>
+  <missing-glyph><path d="M0,0h200v200h-200z"/></missing-glyph>
+</font>
+</svg>
