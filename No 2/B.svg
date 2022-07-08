@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="33"
+   height="32"
+   viewBox="0 0 8.7312492 8.4666669"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="B.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px"
+     height="44px"
+     inkscape:zoom="16.972785"
+     inkscape:cx="-3.8002013"
+     inkscape:cy="13.610023"
+     inkscape:window-width="1889"
+     inkscape:window-height="1029"
+     inkscape:window-x="31"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="15.343824,43.735416"
+       orientation="0,1"
+       id="guide824"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0.26458333,10.230742"
+       orientation="-1,0"
+       id="guide826"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="8.2020831,11.377083"
+       orientation="-1,0"
+       id="guide828"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="7.0325855,3.4395832"
+       orientation="0,1"
+       id="guide830"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1.8520833,6.0815986"
+       orientation="-1,0"
+       id="guide941"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="4.3960077,6.8791665"
+       orientation="0,1"
+       id="guide943"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="4.5207172,1.8520833"
+       orientation="0,1"
+       id="guide945"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="5.3001512,5.0270832"
+       orientation="0,1"
+       id="guide947"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="4.72337,3.8364582"
+       orientation="0,1"
+       id="guide949"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="5.3936832,2.3812499"
+       orientation="0,1"
+       id="guide951"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3320"
+       style="opacity:1;fill:#000000;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1,1 v 30 h 22.441406 c 5.748408,0 8.353516,-4.00104 8.353516,-7.980469 0,-7.213903 -4.78125,-7.626953 -4.78125,-7.626953 0,0 3.986329,-0.511588 3.986328,-6.6562499 C 30.999999,2.5916661 25.400299,1.0000001 21.970703,1 Z m 6,5 h 12.955078 c 3.526659,0 5.217204,0.8634957 5.267578,3.5332031 C 25.263904,11.719183 23.387616,13 20.03125,13 H 7 Z m 0,11.5 h 8.898438 c 4.982452,0 9.863688,1.35373 9.914062,4.023438 C 25.853747,23.709417 23.387616,25 20.03125,25 H 7 Z"
+       transform="scale(0.26458332)" />
+  </g>
+</svg>
