@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="35.5"
+   width="32"
    height="32"
-   viewBox="0 0 9.3927074 8.4666669"
+   viewBox="0 0 8.4666659 8.4666669"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="H.svg"
+   sodipodi:docname="E.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,13 +27,13 @@
      inkscape:guide-bbox="true"
      units="px"
      height="44px"
-     inkscape:zoom="16"
-     inkscape:cx="17.53125"
-     inkscape:cy="10.0625"
+     inkscape:zoom="256"
+     inkscape:cx="0.068359375"
+     inkscape:cy="30.728516"
      inkscape:window-width="1889"
-     inkscape:window-height="1029"
+     inkscape:window-height="1058"
      inkscape:window-x="31"
-     inkscape:window-y="29"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <sodipodi:guide
@@ -106,13 +106,6 @@
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="6.6145831,4.6632814"
-       orientation="-1,0"
-       id="guide16941"
-       inkscape:label=""
-       inkscape:locked="false"
-       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -122,7 +115,8 @@
      id="layer1">
     <path
        style="fill:#000000;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 0.26458332,8.2020829 H 1.8520833 V 4.6302081 H 6.614583 V 8.2020829 H 8.2020829 V 0.26458377 H 6.614583 V 3.4395832 H 1.8520833 V 0.26458377 H 0.26458332 V 8.2020829"
-       id="path16976" />
+       d="M 7.6729164,8.2020829 V 6.614583 H 1.8520833 V 4.6302081 H 7.1437498 V 3.4395832 H 1.8520833 V 1.5874999 H 7.6729164 V 0.26458377 H 0.26458332 V 8.2020829 Z"
+       id="path12367"
+       sodipodi:nodetypes="ccccccccccccc" />
   </g>
 </svg>
