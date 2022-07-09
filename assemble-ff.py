@@ -15,13 +15,24 @@ def when_glyph_defined(font, fontname, char):
     svg =charSvg.getroot()
     height = float(svg.attrib['height'])
     width = float(svg.attrib['width'])
+    # hacky workaround for fontforges svg scaling
+    # scaling is based on the largest dimension
+    # so before importing, set the total height to that
+    # and then after, revert it to the actual height if that's smaller
+    # any extra height gets added to the descender, as adding it to the 
+    # ascent throws off the positioning 
+    m = max(height, width)
+    font.ascent = ceil(height * 10)
+    font.descent = ceil((2*m - height) * 10)
+
+    glyph = font.createChar(ord(char))
+    glyph.width = ceil(width * 20)
+    glyph.importOutlines(f, scale=True)
+    glyph.width = ceil(width * 20)
+   
     font.ascent = ceil(height * 10)
     font.descent = ceil(height * 10)
 
-    glyph = font.createChar(ord(char))
-    glyph.importOutlines(f, scale=False, correctdir=True)
-    glyph.transform([80,0, 0, 80, 0, height*-990*0.8])
-    glyph.width = ceil(width * 20)
     print(f"{fontname} - {char} : {width} x {height}")
     print(glyph.boundingBox())
 
