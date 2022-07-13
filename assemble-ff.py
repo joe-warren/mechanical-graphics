@@ -52,6 +52,6 @@ def build_font(fontname):
     font.generate(f"output/{dashed}.ttf")
     print(f"finished {fontname}")
 
-fonts = ["No. 1", "No. 2"]
+fonts = ["No. 1", "No. 2", "No. 3"]
 for f in fonts:
     build_font(f)
