@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="21"
+   height="48"
+   viewBox="0 0 5.5562485 12.7"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="g.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="16"
+     inkscape:cx="0.40625"
+     inkscape:cy="15.71875"
+     inkscape:window-width="1889"
+     inkscape:window-height="1058"
+     inkscape:window-x="31"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0.26458333,12.43542"
+       orientation="0,1"
+       id="guide824"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0.26458333,12.435417"
+       orientation="-1,0"
+       id="guide826"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0.26458333,4.7625"
+       orientation="0,1"
+       id="guide828"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid906" />
+    <sodipodi:guide
+       position="0.26458333,2.38125"
+       orientation="0,-1"
+       id="guide908" />
+    <sodipodi:guide
+       position="0.26458333,9.7895833"
+       orientation="0,-1"
+       id="guide910" />
+    <sodipodi:guide
+       position="0.26458328,7.9375"
+       orientation="0,-1"
+       id="guide1037" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path23281"
+       style="color:#000000;fill:#000000;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 17 6.0019531 A 1.0001001 1.0001001 0 0 0 15.996094 6.9980469 L 15.996094 10.001953 L 0.99609375 10.001953 A 1.0001001 1.0001001 0 0 0 0 10.998047 L 0 25.998047 L 0 29.003906 C 0 29.483072 0.25754227 29.856898 0.50195312 30.087891 C 0.74636383 30.318884 1.0100456 30.467144 1.2988281 30.605469 C 1.876393 30.882119 2.5815646 31.103243 3.4101562 31.314453 C 5.0673394 31.736872 7.199221 32.113282 9.3242188 32.488281 C 11.449217 32.863282 13.56539 33.23492 15.095703 33.625 C 15.86086 33.820039 16.485769 34.024696 16.837891 34.193359 C 16.939174 34.241873 16.951614 34.257141 17 34.289062 L 17 38.001953 L 2 38.001953 L 2 34.998047 A 1.0000001 1.0000001 0 0 0 0.99609375 34.001953 A 1.0000001 1.0000001 0 0 0 0 34.998047 L 0 38.998047 A 1.0001001 1.0001001 0 0 0 0.99609375 40.001953 L 17.996094 40.001953 A 1.0001001 1.0001001 0 0 0 19.001953 38.998047 L 19.001953 34.001953 C 19.001953 33.522787 18.742459 33.139195 18.498047 32.908203 C 18.253636 32.677211 17.989955 32.530902 17.701172 32.392578 C 17.123607 32.11593 16.418435 31.902616 15.589844 31.691406 C 13.932661 31.268987 11.79492 30.892578 9.6699219 30.517578 C 7.5449237 30.142578 5.4346106 29.763127 3.9042969 29.373047 C 3.1391402 29.178007 2.514231 28.973351 2.1621094 28.804688 C 2.0627424 28.757092 2.0485447 28.740854 2 28.708984 L 2 27.003906 L 17 27.003906 A 1.0001001 1.0001001 0 0 0 17.996094 25.998047 L 17.996094 10.998047 L 17.996094 8.0019531 L 19.998047 8.0019531 A 1.0000001 1.0000001 0 0 0 21.001953 6.9980469 A 1.0000001 1.0000001 0 0 0 19.998047 6.0019531 L 17 6.0019531 z M 2 12.003906 L 15.996094 12.003906 L 15.996094 25.001953 L 2 25.001953 L 2 12.003906 z "
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
