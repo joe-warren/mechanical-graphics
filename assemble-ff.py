@@ -57,10 +57,8 @@ def build_weighted_font(fontname, weight=None):
        elif exists(filename(fontname, char)): 
            when_glyph_defined(font, fontname, char, None)
     dashed=fontname.replace(" ", "-").replace(".", "")
-    font.familyname=f"Mechanical-Graphics-{dashed}"
     font.fontname=fontname.replace(" ", "_")
     font.fullname=f"Mechanical Graphics {fontname}"
-  
     font.copyright="This font is in the public domain"
     name = dashed
     if weight == None:
@@ -68,6 +66,8 @@ def build_weighted_font(fontname, weight=None):
     else:
         font.weight = weight
         name = f"{dashed}-{weight}"
+
+    font.familyname=f"Mechanical-Graphics-{name}"
     font.save(f"output/{name}.sfd")  
     font.generate(f"output/{name}.ttf")
     print(f"finished {fontname}")
@@ -79,6 +79,6 @@ def build_font(fontname):
     else:
       for weight in get_weights(fontname):
         build_weighted_font(fontname, weight)
-fonts = ["No. 1", "No. 2", "No. 3", "No. 4", "No. 5", "No. 6"]
+fonts = ["No. 1", "No. 2", "No. 3", "No. 4", "No. 5", "No. 6", "No. 7"]
 for f in fonts:
     build_font(f)
