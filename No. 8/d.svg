@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20"
+   height="48"
+   viewBox="0 0 5.2916668 12.7"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="d.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px"
+     width="32px"
+     inkscape:zoom="17.557358"
+     inkscape:cx="20.646614"
+     inkscape:cy="18.197499"
+     inkscape:window-width="1889"
+     inkscape:window-height="1058"
+     inkscape:window-x="31"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,39.533332"
+       orientation="0,1"
+       id="guide824"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid826" />
+    <sodipodi:guide
+       position="2.3812494,4.2333301"
+       orientation="0,1"
+       id="guide905"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1.8520834,10.054167"
+       orientation="0,-1"
+       id="guide8143" />
+    <sodipodi:guide
+       position="3.1750001,12.170833"
+       orientation="0,-1"
+       id="guide8781" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path9572"
+       style="fill:#000000;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 7 2 C 7 2 6.9999984 4 9 4 C 11.000002 4 9.0000001 3 10 3 L 14 3 L 14 10 L 1 10 C 1.2598426e-08 10 0 11 0 11 L 0 19 C 0 20 1 24 1 25 L 1 29 C 1 30 0 30 0 31 C 0 32 1 32 1 32 L 16 32 C 17 32 17 31 18 31 C 19 31 19 32 20 32 L 24 32 C 25 32 25 31 25 31 C 25 31 25 30 24 30 L 18 30 L 18 2 L 15 2 L 7 2 z M 5 12 L 14 12 L 14 30 L 5 30 L 5 12 z "
+       transform="scale(0.26458333)" />
+  </g>
+</svg>

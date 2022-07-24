@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="48"
+   viewBox="0 0 6.3500002 12.7"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="a.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px"
+     width="32px"
+     inkscape:zoom="17.557358"
+     inkscape:cx="8.5149485"
+     inkscape:cy="20.532702"
+     inkscape:window-width="1889"
+     inkscape:window-height="1058"
+     inkscape:window-x="31"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,39.533332"
+       orientation="0,1"
+       id="guide824"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid826" />
+    <sodipodi:guide
+       position="2.3812494,4.2333301"
+       orientation="0,1"
+       id="guide905"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1.8520834,10.054167"
+       orientation="0,-1"
+       id="guide8143" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path8178"
+       style="fill:#000000;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 5,10 c 0,0 -5,0 -5,1 v 6 h 3 c 0,0 1,0 1,-1 v -4 h 6 c 1,0 1,-1 2,-1 h 1 c 0,0 1,0 1,1 v 7 c 0,0 -14,0 -14,1 v 12 h 23 c 1,0 1,-1 0,-1 h -4 c 0,0 -1,0 -1,-1 V 11 c 0,0 0,-1 -1,-1 z M 3,21 H 14 V 31 H 4 C 3.0000001,31 3,29 3,27 Z"
+       transform="scale(0.26458333)" />
+  </g>
+</svg>

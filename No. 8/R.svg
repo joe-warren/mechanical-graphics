@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40"
+   height="48"
+   viewBox="0 0 10.583334 12.7"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="R.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px"
+     width="32px"
+     inkscape:zoom="12.414927"
+     inkscape:cx="13.330727"
+     inkscape:cy="20.499516"
+     inkscape:window-width="1889"
+     inkscape:window-height="1058"
+     inkscape:window-x="31"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,39.533332"
+       orientation="0,1"
+       id="guide824"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid826" />
+    <sodipodi:guide
+       position="2.3812494,4.2333301"
+       orientation="0,1"
+       id="guide905"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3396"
+       style="fill:#000000;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1 0 C 1.2598425e-08 0 0 1 0 1 C 0 1 1.2598424e-08 2 1 2 L 7 2 C 7.9999999 2 8 4.9999997 8 6 L 8 29 C 8 29 7.9999999 30 7 30 L 1 30 C 1.2598425e-08 30 0 31 0 31 C 0 31 1.2598426e-08 32 1 32 L 18 32 C 19 32 19 31 19 31 C 19 31 19 30 18 30 L 13 30 L 13 18 L 23 18 C 24 18 28 30 28 30 L 23 30 C 22 30 22 31 22 31 C 22 31 22 32 23 32 L 39 32 C 39.999999 32 40 31 40 31 C 40 31 39.999999 30 39 30 L 33 30 L 28 18 L 32 18 L 32 13 C 32 12 31 12 31 11 L 31 1 C 31 1 31 0 30 0 L 1 0 z M 13 2 L 27 2 L 27 16 C 27 16 27 17 26 17 C 25 17 25 16 24 16 L 20 16 L 13 16 C 12 16 12 15 12 15 L 12 3 C 12 2 13 2 13 2 z "
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
