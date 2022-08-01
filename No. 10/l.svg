@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="48"
+   viewBox="0 0 4.2333331 12.7"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="l.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px"
+     width="32px"
+     inkscape:zoom="17.557358"
+     inkscape:cx="1.623251"
+     inkscape:cy="28.677435"
+     inkscape:window-width="1889"
+     inkscape:window-height="1058"
+     inkscape:window-x="31"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,4.2333331"
+       orientation="0,1"
+       id="guide824"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1092"
+       style="opacity:1;fill:#000000;stroke:none;stroke-width:0.252525"
+       d="m 10.082031,4.8867188 c -1.6200942,0.00329 -3.5549396,1.2944684 -4.2402341,2.4414062 -2.5100978,4.205556 -1.65625,12.621094 -1.65625,12.621094 0,0 -2.6203228,2.5069 -3.40820315,4.085937 0.35760755,-0.01623 0.67288305,0.269022 0.67288305,0.269022 L 4.0656947,21.34171 c -0.00538,3.194584 -1.401576,8.2201 0.3991491,10.183681 2.5306336,2.759502 9.0741692,-5.177505 9.0741692,-5.177505 l -1.034788,-1.007343 c 0,0 -3.3804406,4.13467 -4.8674667,4.904416 C 6.3459987,30.91311 6.8615065,28.34437 6.8378906,26.814453 6.7925363,24.204859 6.8909528,20.469716 6.9802494,18.0176 7.9797522,16.781157 9.1816453,16.031543 10.130859,14.945312 12.077807,12.766022 15.137285,7.0220663 11.134766,5.1074219 10.813742,4.9536338 10.455899,4.8859591 10.082031,4.8867188 Z M 8.9257812,6.3691406 C 10.915809,6.3289485 11.485445,10.451987 10.957031,11.914062 9.8028443,14.029311 8.5398291,15.468849 6.8921883,17.041048 6.6932241,14.368603 6.8239542,11.850865 6.8378906,9.6425781 6.8416702,8.7408093 6.846086,7.4579786 7.671875,6.8632812 8.1398337,6.5269494 8.5572576,6.3765836 8.9257812,6.3691406 Z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="scccccsccsccccssccccs" />
+  </g>
+</svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="28"
+   height="48"
+   viewBox="0 0 7.4083327 12.7"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="O.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px"
+     width="32px"
+     inkscape:zoom="17.557358"
+     inkscape:cx="2.8762869"
+     inkscape:cy="15.34969"
+     inkscape:window-width="1889"
+     inkscape:window-height="1058"
+     inkscape:window-x="31"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,4.2333331"
+       orientation="0,1"
+       id="guide824"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1092"
+       style="opacity:1;fill:#000000;stroke:none;stroke-width:0.252525"
+       d="M 12.613281,3.4394531 C 8.9596738,3.5818919 6.732613,4.5062419 4.656426,6.9891338 2.7692568,9.245981 1.7085362,14.377685 4.0449219,16.109375 8.0502703,19.078073 10.334261,18.221849 12.527344,15.294922 14.264166,12.976928 13.52661,9.6568512 11.554688,8.7910156 10.186007,8.2569245 9.0067296,8.8129161 7.7441406,9.3007812 7.8837514,9.6985562 7.8986293,10.30599 7.8986293,10.30599 c 0,0 2.2316027,-0.0085 2.9348877,0.482956 1.312125,0.918493 2.257696,3.084837 1.449686,4.336054 C 10.331532,18.147196 4.9475998,14.194594 4.2070312,12.078125 3.7288728,10.157873 3.80376,8.79559 4.8222442,7.3396653 5.9045302,5.7925358 8.3110367,5.3182541 10.269531,5.3574219 c 5.462136,0.2780296 9.998063,4.7548611 11.677735,9.7519531 1.699112,5.054929 0.318317,15.63236 -7.636719,14.646484 C 12.867723,29.577048 10.499677,29.331143 9.2597656,28.740234 3.7395778,26.112962 2.1894531,20.374661 2.1894531,14.855469 0.00511297,16.409509 0.70968553,20.785732 1.0859375,22.9375 2.3586556,30.205177 9.1665014,33.447639 16.078125,31.384766 23.802873,29.079205 26.247831,19.558859 24.085938,12.835938 22.54006,8.0286633 20.712193,5.2081196 16.330078,3.8359375 15.511914,3.579744 14.12253,3.4277085 12.613281,3.4394531 Z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="csssccccscscsscccsssc" />
+  </g>
+</svg>

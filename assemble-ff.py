@@ -79,6 +79,6 @@ def build_font(fontname):
     else:
       for weight in get_weights(fontname):
         build_weighted_font(fontname, weight)
-fonts = [f"No. {n}" for n in range(1,10)]
+fonts = [f"No. {n}" for n in range(1,11)]
 for f in fonts:
     build_font(f)
